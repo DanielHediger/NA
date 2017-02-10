@@ -1,0 +1,55 @@
+\documentclass[a4paper, 11pt, fleqn]{article}
+\usepackage{custom}
+\usepackage{titlepage}
+\usepackage{import}
+\usepackage{tikz}
+\usepackage[bottom]{footmisc}
+\usepackage{tabu}
+\usepackage{wrapfig}
+\usepackage{apacite}
+\hypersetup{%
+	pdfborder = {0 0 0}
+}
+%\usepackage{sourcesanspro-type1-autoinst}
+%============STYLE PROPERTIES============
+\setlength{\parindent}{0pt}
+\graphicspath{{pdf/}{images/}}
+%============PAGE PROPERTIES=============
+\newcommand{\revisiondate}{\today}
+\newcommand{\documenttitle}{Sustainability } % used for title in title and subtitle pages
+\newcommand{\authors}{Group 05} %used for title page only
+\newcommand{\subauthors}{Lukas Tanner\\Sandro Holderegger\\ Daniel Hediger\\ Heinz No\"{e}l} % used for titlepage only
+\newcommand{\subtitle}{Final Report} % used for title and subtitle pages
+\newcommand{\documentdesc}{\textbf{THE LIFECYCLE OF WINE}}
+\newcommand{\titleimg}{\includegraphics[width=.5\textwidth]{titlepage.jpg}}
+\newcommand{\dozent}{Dr. Ulrike Sturm}
+\newcommand{\ort}{Hochschule Luzern Technik \& Architektur, Horw}
+ \renewcommand{\baselinestretch}{1.50}\normalsize
+ \bfseries
+    
+\begin{document}
+	\begin{titlepage}
+	\titleGM
+	\thispagestyle{empty}
+	\end{titlepage}
+	\section{Life cycle analyse}
+	\tableofcontents	
+ 	\clearpage
+	\input{transport.tex}
+	\clearpage
+	\input{loehne.tex}
+	\clearpage
+	\input{wasser.tex}
+	\clearpage
+	\input{pestizide.tex}
+	\clearpage
+	\section{Vorarbeiten}
+	\input{vorarbeiten.tex}
+	\clearpage
+	\input{summaries.tex}
+	\clearpage
+	\listoffigures
+    \nocite{*}
+    \bibliographystyle{apacite}
+    \bibliography{bibliography}
+\end{document}
