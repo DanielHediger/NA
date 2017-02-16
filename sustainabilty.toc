@@ -1,18 +1,22 @@
 \select@language {ngerman}
-\contentsline {section}{\numberline {1}Life cycle analyse}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Transport}{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}L\IeC {\"o}hne}{4}{subsection.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}Schweiz}{4}{subsubsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2}Kalifornien}{4}{subsubsection.1.2.2}
-\contentsline {subsection}{\numberline {1.3}Wasser}{6}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Schweiz}{6}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Kalifornien}{7}{subsubsection.1.3.2}
-\contentsline {subsection}{\numberline {1.4}Pestizide}{8}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}Schweiz}{8}{subsubsection.1.4.1}
-\contentsline {subsubsection}{\numberline {1.4.2}Kalifornien}{9}{subsubsection.1.4.2}
-\contentsline {section}{\numberline {2}Vorarbeiten}{10}{section.2}
-\contentsline {subsection}{\numberline {2.1}Analyse von den Resultaten der \IeC {\guillemotleft }Fussabdr\IeC {\"u}cke\IeC {\guillemotright }}{10}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Einkaufsverhalten}{10}{subsection.2.2}
-\contentsline {section}{\numberline {3}Summaries}{12}{section.3}
-\contentsline {subsection}{\numberline {3.1}COOP \IeC {\textendash } Strategies for Sustainable Food}{12}{subsection.3.1}
-\contentsline {section}{Literatur}{14}{section*.9}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Life cycle analyse}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Transport}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}L\IeC {\"o}hne}{5}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Schweiz}{5}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Kalifornien}{5}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Wasser}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Schweiz}{7}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Kalifornien}{8}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Pestizide}{9}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Schweiz}{9}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Kalifornien}{10}{subsubsection.2.4.2}
+\contentsline {section}{\numberline {3}Vorarbeiten}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analyse von den Resultaten der \IeC {\guillemotleft }Fussabdr\IeC {\"u}cke\IeC {\guillemotright }}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Einkaufsverhalten}{11}{subsection.3.2}
+\contentsline {section}{\numberline {4}Summaries}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}COOP \IeC {\textendash } Strategies for Sustainable Food}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Options for Change \IeC {\textendash } Innovation in Food Affair}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Sustainable Development and Food Security}{14}{subsection.4.3}
+\contentsline {section}{\numberline {5}Reflexion \IeC {\textendash } Blockwoche Nachhaltigkeit }{16}{section.5}
+\contentsline {section}{Literatur}{18}{section*.10}

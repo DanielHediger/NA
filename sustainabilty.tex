@@ -10,6 +10,9 @@
 \hypersetup{%
 	pdfborder = {0 0 0}
 }
+\usepackage[default]{sourcesanspro}
+\usepackage[T1]{fontenc}
+\normalfont
 %\usepackage{sourcesanspro-type1-autoinst}
 %============STYLE PROPERTIES============
 \setlength{\parindent}{0pt}
@@ -32,11 +35,14 @@
 	\titleGM
 	\thispagestyle{empty}
 	\end{titlepage}
-	\section{Life cycle analyse}
-	\tableofcontents	
- 	\clearpage
+\section{Einleitung}
+	\input{intro.tex}
+	\newpage
+		\tableofcontents	
+\clearpage
+	\section{Life Cycle Analyse}
 	\input{transport.tex}
-	\clearpage
+\clearpage
 	\input{loehne.tex}
 	\clearpage
 	\input{wasser.tex}
@@ -47,6 +53,8 @@
 	\input{vorarbeiten.tex}
 	\clearpage
 	\input{summaries.tex}
+	\clearpage
+	\input{ref.tex}
 	\clearpage
 	\listoffigures
     \nocite{*}
