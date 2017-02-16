@@ -1,6 +1,6 @@
 \select@language {ngerman}
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
-\contentsline {section}{\numberline {2}Life cycle analyse}{3}{section.2}
+\contentsline {section}{\numberline {2}Life Cycle Analyse}{3}{section.2}
 \contentsline {subsection}{\numberline {2.1}Transport}{3}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}L\IeC {\"o}hne}{5}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Schweiz}{5}{subsubsection.2.2.1}
@@ -11,12 +11,13 @@
 \contentsline {subsection}{\numberline {2.4}Pestizide}{9}{subsection.2.4}
 \contentsline {subsubsection}{\numberline {2.4.1}Schweiz}{9}{subsubsection.2.4.1}
 \contentsline {subsubsection}{\numberline {2.4.2}Kalifornien}{10}{subsubsection.2.4.2}
-\contentsline {section}{\numberline {3}Vorarbeiten}{11}{section.3}
-\contentsline {subsection}{\numberline {3.1}Analyse von den Resultaten der \IeC {\guillemotleft }Fussabdr\IeC {\"u}cke\IeC {\guillemotright }}{11}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Einkaufsverhalten}{11}{subsection.3.2}
-\contentsline {section}{\numberline {4}Summaries}{13}{section.4}
-\contentsline {subsection}{\numberline {4.1}COOP \IeC {\textendash } Strategies for Sustainable Food}{13}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Options for Change \IeC {\textendash } Innovation in Food Affair}{14}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Sustainable Development and Food Security}{14}{subsection.4.3}
-\contentsline {section}{\numberline {5}Reflexion \IeC {\textendash } Blockwoche Nachhaltigkeit }{16}{section.5}
-\contentsline {section}{Literatur}{18}{section*.10}
+\contentsline {subsection}{\numberline {2.5}Recycling}{11}{subsection.2.5}
+\contentsline {section}{\numberline {3}Vorarbeiten}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analyse von den Resultaten der \IeC {\guillemotleft }Fussabdr\IeC {\"u}cke\IeC {\guillemotright }}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Einkaufsverhalten}{12}{subsection.3.2}
+\contentsline {section}{\numberline {4}Summaries}{14}{section.4}
+\contentsline {subsection}{\numberline {4.1}COOP \IeC {\textendash } Strategies for Sustainable Food}{14}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Options for Change \IeC {\textendash } Innovation in Food Affair}{15}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Sustainable Development and Food Security}{15}{subsection.4.3}
+\contentsline {section}{\numberline {5}Reflexion \IeC {\textendash } Blockwoche Nachhaltigkeit }{17}{section.5}
+\contentsline {section}{Literatur}{19}{section*.10}

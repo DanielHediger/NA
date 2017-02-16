@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.12)  16 FEB 2017 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.12)  16 FEB 2017 18:38
 entering extended mode
 **./sustainabilty.tex
 (sustainabilty.tex
@@ -1715,7 +1715,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/sc' will be
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 35.
 
-<images/titlepage.jpg, id=90, 1284.8pt x 1284.8pt>
+<images/titlepage.jpg, id=94, 1284.8pt x 1284.8pt>
 File: images/titlepage.jpg Graphic file (type jpg)
  <use images/titlepage.jpg>
 Package pdftex.def Info: images/titlepage.jpg used on input line 35.
@@ -1868,26 +1868,26 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 6.
+(babel)             in language  on input line 8.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 11.
+(Font)              scaled to size 10.95pt on input line 13.
 
-<images/Grafikarbeiter.jpg, id=140, 427.29637pt x 235.17862pt>
+<images/Grafikarbeiter.jpg, id=145, 427.29637pt x 235.17862pt>
 File: images/Grafikarbeiter.jpg Graphic file (type jpg)
 
 <use images/Grafikarbeiter.jpg>
-Package pdftex.def Info: images/Grafikarbeiter.jpg used on input line 14.
+Package pdftex.def Info: images/Grafikarbeiter.jpg used on input line 16.
 (pdftex.def)             Requested size: 409.71692pt x 225.50694pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 19.
  [5
 
 ])
@@ -1909,13 +1909,13 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
- <images/WV.jpg, id=155, 460.34485pt x 143.41078pt>
+ <images/WV.jpg, id=160, 460.34485pt x 143.41078pt>
 File: images/WV.jpg Graphic file (type jpg)
 
 <use images/WV.jpg>
 Package pdftex.def Info: images/WV.jpg used on input line 7.
 (pdftex.def)             Requested size: 409.71692pt x 127.64612pt.
- <images/WVA.jpg, id=156, 430.23235pt x 160.72546pt>
+ <images/WVA.jpg, id=161, 430.23235pt x 160.72546pt>
 File: images/WVA.jpg Graphic file (type jpg)
 
 <use images/WVA.jpg>
@@ -1954,14 +1954,14 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
- <images/pestizide.jpg, id=169, 142.131pt x 82.6287pt>
+ <images/pestizide.jpg, id=174, 142.131pt x 82.6287pt>
 File: images/pestizide.jpg Graphic file (type jpg)
 
 <use images/pestizide.jpg>
 Package pdftex.def Info: images/pestizide.jpg used on input line 5.
 (pdftex.def)             Requested size: 270.30118pt x 157.14613pt.
 
-<images/auswirkungen.jpg, id=171, 751.608pt x 450.483pt>
+<images/auswirkungen.jpg, id=176, 751.608pt x 450.483pt>
 File: images/auswirkungen.jpg Graphic file (type jpg)
 
 <use images/auswirkungen.jpg>
@@ -2001,11 +2001,28 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 51.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 51.
- [10 <./images/auswirkungen.jpg>]
+ [10 <./images/auswirkungen.jpg>] (rec.tex
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 1.
+)
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 53.
+
+[11
+
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 54.
  (vorarbeiten.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -2015,9 +2032,10 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 8.
-<images/ta.png, id=183, 369.7815pt x 192.72pt>
+ <images/ta.png, id=192, 369.7815pt x 192.72pt>
 File: images/ta.png Graphic file (type png)
- <use images/ta.png>
+
+<use images/ta.png>
 Package pdftex.def Info: images/ta.png used on input line 13.
 (pdftex.def)             Requested size: 409.71692pt x 213.54825pt.
 Package babel Info: Redefining ngerman shorthand "|
@@ -2028,19 +2046,18 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 16.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 16.
- [11
+ [12
 
 ])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 56.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 54.
-
-[12 <./images/ta.png>] (summaries.tex
+(babel)             in language  on input line 56.
+ [13 <./images/ta.png>] (summaries.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2067,7 +2084,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 26.
-[13
+[14
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
@@ -2078,7 +2095,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 62.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 62.
- <images/goals.jpg, id=198, 3412.75pt x 2733.21124pt>
+ <images/goals.jpg, id=207, 3412.75pt x 2733.21124pt>
 File: images/goals.jpg Graphic file (type jpg)
 
 <use images/goals.jpg>
@@ -2092,41 +2109,41 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 71.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 71.
- [14])
+ [15])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 56.
- [15 <./images/goals.jpg>] (ref.tex
+(babel)             in language  on input line 58.
+ [16 <./images/goals.jpg>] (ref.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 58.
- [16
+(babel)             in language  on input line 60.
+ [17
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 58.
- [17]
+(babel)             in language  on input line 60.
+ [18]
 (sustainabilty.lof
 Overfull \hbox (5.30487pt too wide) in paragraph at lines 6--6
  [][] [][]\T1/SourceSansPro-LF/m/n/10.95 Gesamtumweltbelastung [UBP] der ÖLN- u
@@ -2180,7 +2197,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 221.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 221.
-[18
+[19
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 267--275
@@ -2190,32 +2207,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--275
 
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 63.
+(babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 63.
- [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
+(babel)             in language  on input line 65.
+ [20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (sustainabilty.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 63.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 63.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `sustainabilty.out' has not changed.
-(rerunfilecheck)             Checksum: 80ED20101E8E15D45CE1A94E397D0BC0;1426.
+(rerunfilecheck)             Checksum: 3E0D2D2272DDA7A7D5F80A9015903CAB;1486.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 23020 strings out of 493333
- 407091 string characters out of 3139194
- 497148 words of memory out of 3000000
- 25958 multiletter control sequences out of 15000+200000
+ 23027 strings out of 493333
+ 407160 string characters out of 3139194
+ 497188 words of memory out of 3000000
+ 25960 multiletter control sequences out of 15000+200000
  154642 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,77p,1166b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2232,9 +2249,9 @@ SourceSansPro-It.pfb><C:/Users/danie/AppData/Roaming/MiKTeX/2.9/fonts/type1/ado
 be/sourcesanspro/SourceSansPro-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on sustainabilty.pdf (20 pages, 3140695 bytes).
+Output written on sustainabilty.pdf (21 pages, 3142874 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 332 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
