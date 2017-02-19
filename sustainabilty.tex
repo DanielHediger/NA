@@ -13,7 +13,6 @@
 \usepackage[default]{sourcesanspro}
 \usepackage[T1]{fontenc}
 \normalfont
-%\usepackage{sourcesanspro-type1-autoinst}
 %============STYLE PROPERTIES============
 \setlength{\parindent}{0pt}
 \graphicspath{{pdf/}{images/}}
@@ -35,11 +34,11 @@
 	\titleGM
 	\thispagestyle{empty}
 	\end{titlepage}
-\section{Einleitung}
-	\input{intro.tex}
-	\newpage
 		\tableofcontents	
 \clearpage
+\section{Einleitung}
+\input{intro.tex}
+\newpage
 	\section{Life Cycle Analyse}
 	\input{transport.tex}
 \clearpage
@@ -59,6 +58,7 @@
 	\input{ref.tex}
 	\clearpage
 	\listoffigures
+	\newpage
     \nocite{*}
     \bibliographystyle{apacite}
     \bibliography{bibliography}

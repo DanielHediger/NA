@@ -3,15 +3,15 @@
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {2015\_CSWA\_Sustainability\_Report.pdf}}{%
 \APACcitebtitle {2015\_CSWA\_Sustainability\_Report.pdf}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
-_2015_cswa_sustainability_report.pdf_????}
+_2015_cswa_sustainability_report.pdf}
 \APACinsertmetastar {%
-_2015_cswa_sustainability_report.pdf_????}%
+_2015_cswa_sustainability_report.pdf}%
 \APACrefbtitle {2015\_CSWA\_Sustainability\_Report.pdf.}
   {2015\_cswa\_sustainability\_report.pdf.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{http://www.sustainablewinegrowing.org/docs/2015_CSWA_Sustainability_Report.pdf}
@@ -21,14 +21,14 @@ _2015_cswa_sustainability_report.pdf_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {2015\_Report\_Appendix.pdf}}{%
 \APACcitebtitle {2015\_Report\_Appendix.pdf}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
-_2015_report_appendix.pdf_????}
+_2015_report_appendix.pdf}
 \APACinsertmetastar {%
-_2015_report_appendix.pdf_????}%
+_2015_report_appendix.pdf}%
 \APACrefbtitle {2015\_Report\_Appendix.pdf.} {2015\_report\_appendix.pdf.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{http://www.sustainablewinegrowing.org/docs/2015_Report_Appendix.pdf}
@@ -40,20 +40,19 @@ _2015_report_appendix.pdf_????}%
   History}}{%
 \APACcitebtitle {All about California Wines, Winemakers, Wineries, Grapes Soil,
   History}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2016}}%
 }]{%
-_all_????}
+_all}
 \APACinsertmetastar {%
-_all_????}%
+_all}%
 \APACrefbtitle {All about California Wines, Winemakers, Wineries, Grapes Soil,
   History.} {All about california wines, winemakers, wineries, grapes soil,
   history.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
-\begin{APACrefURL}
-  [{2017-02-16}]\url{http://www.thewinecellarinsider.com/california-wine/}
-  \end{APACrefURL}
+\begin{APACrefURL} [{2017-02-16}]\url{http://
+  www.thewinecellarinsider.com/california-wine/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -61,15 +60,15 @@ _all_????}%
   usatipps.de}}{%
 \APACcitebtitle {Arbeitszeiten und {Urlaubszeiten} in den {USA} -
   usatipps.de}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2011}}%
 }]{%
-_arbeitszeiten_????}
+_arbeitszeiten}
 \APACinsertmetastar {%
-_arbeitszeiten_????}%
+_arbeitszeiten}%
 \APACrefbtitle {Arbeitszeiten und {Urlaubszeiten} in den {USA} - usatipps.de.}
   {Arbeitszeiten und {Urlaubszeiten} in den {USA} - usatipps.de.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2011}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{http://www.usatipps.de/tipps/bevoelkerung/arbeitszeiten-und-urlaubszeiten/}
@@ -79,15 +78,15 @@ _arbeitszeiten_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {Assistant {Winemaker} {Salary} {\textbar} {Chron}.com}}{%
 \APACcitebtitle {Assistant {Winemaker} {Salary} {\textbar} {Chron}.com}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
-_assistant_????}
+_assistant}
 \APACinsertmetastar {%
-_assistant_????}%
+_assistant}%
 \APACrefbtitle {Assistant {Winemaker} {Salary} {\textbar} {Chron}.com.}
   {Assistant {Winemaker} {Salary} {\textbar} {Chron}.com.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{http://work.chron.com/assistant-winemaker-salary-28565.html}
@@ -95,16 +94,34 @@ _assistant_????}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Farm {Worker} {Salary}}}{%
-\APACcitebtitle {Farm {Worker} {Salary}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+\APACcitebtitle {Branchenverband {Deutschschweizer} {Wein} - {Richtlinien}}}{%
+\APACcitebtitle {Branchenverband {Deutschschweizer} {Wein} - {Richtlinien}}}{%
+{\protect \APACyear {2012}}%
 }]{%
-_farm_????}
+_branchenverband}
 \APACinsertmetastar {%
-_farm_????}%
+_branchenverband}%
+\APACrefbtitle {Branchenverband {Deutschschweizer} {Wein} - {Richtlinien}.}
+  {Branchenverband {Deutschschweizer} {Wein} - {Richtlinien}.}
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-02-17}]\url{http://www.weinbranche.ch/index.cfm?nav=567,1529,1537,1539&DID=9&SID=1}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Farm {Worker} {Salary}}}{%
+\APACcitebtitle {Farm {Worker} {Salary}}}{%
+{\protect \APACyear {2016}}%
+}]{%
+_farm}
+\APACinsertmetastar {%
+_farm}%
 \APACrefbtitle {Farm {Worker} {Salary}.} {Farm {Worker} {Salary}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{http://www.payscale.com/research/US/Job=Farm_Worker/Hourly_Rate}
@@ -112,21 +129,38 @@ _farm_????}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Kohlendioxid-{Bilanz} für kalifornischen {Wein} überraschend
-  gut — {Justus}-{Liebig}-{Universität} {Gießen}}}{%
-\APACcitebtitle {Kohlendioxid-{Bilanz} für kalifornischen {Wein} überraschend
-  gut — {Justus}-{Liebig}-{Universität} {Gießen}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+\APACcitebtitle {Glas: {Swiss} {Recycling}}}{%
+\APACcitebtitle {Glas: {Swiss} {Recycling}}}{%
+{\protect \APACyear {2014}}%
 }]{%
-_kohlendioxid-bilanz_????}
+_glas:}
 \APACinsertmetastar {%
-_kohlendioxid-bilanz_????}%
+_glas:}%
+\APACrefbtitle {Glas: {Swiss} {Recycling}.} {Glas: {Swiss} {Recycling}.}
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-02-17}]\url{http://www.swissrecycling.ch/wertstoffe/glas/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Kohlendioxid-{Bilanz} für kalifornischen {Wein} überraschend
+  gut — {Justus}-{Liebig}-{Universität} {Gießen}}}{%
+\APACcitebtitle {Kohlendioxid-{Bilanz} für kalifornischen {Wein} überraschend
+  gut — {Justus}-{Liebig}-{Universität} {Gießen}}}{%
+{\protect \APACyear {2016}}%
+}]{%
+_kohlendioxid-bilanz}
+\APACinsertmetastar {%
+_kohlendioxid-bilanz}%
 \APACrefbtitle {Kohlendioxid-{Bilanz} für kalifornischen {Wein} überraschend
   gut — {Justus}-{Liebig}-{Universität} {Gießen}.} {Kohlendioxid-{Bilanz}
   für kalifornischen {Wein} überraschend gut —
   {Justus}-{Liebig}-{Universität} {Gießen}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{https://www.uni-giessen.de/ueber-uns/pressestelle/pm/pm115-16}
@@ -134,16 +168,55 @@ _kohlendioxid-bilanz_????}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {{ReportWeintesting}-1.pdf}}{%
-\APACcitebtitle {{ReportWeintesting}-1.pdf}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+\APACcitebtitle {Our {Common} {Future}: {Report} of the {World} {Commission} on
+  {Environment} and {Development} - our-common-future.pdf}}{%
+\APACcitebtitle {Our {Common} {Future}: {Report} of the {World} {Commission} on
+  {Environment} and {Development} - our-common-future.pdf}}{%
+{\protect \APACyear {1992}}%
 }]{%
-_reportweintesting-1.pdf_????}
+_our}
 \APACinsertmetastar {%
-_reportweintesting-1.pdf_????}%
+_our}%
+\APACrefbtitle {Our {Common} {Future}: {Report} of the {World} {Commission} on
+  {Environment} and {Development} - our-common-future.pdf.} {Our {Common}
+  {Future}: {Report} of the {World} {Commission} on {Environment} and
+  {Development} - our-common-future.pdf.}
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-02-17}]\url{http://www.un-documents.net/our-common-future.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Recycling: {Glas}}}{%
+\APACcitebtitle {Recycling: {Glas}}}{%
+{\protect \APACyear {2016}}%
+}]{%
+_recycling:}
+\APACinsertmetastar {%
+_recycling:}%
+\APACrefbtitle {Recycling: {Glas}.} {Recycling: {Glas}.}
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-02-17}]\url{http://www.nachhaltigleben.ch/themen/wohnen-haushalt/recycling/recycling-glas-200}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{ReportWeintesting}-1.pdf}}{%
+\APACcitebtitle {{ReportWeintesting}-1.pdf}}{%
+{\protect \APACyear {2016}}%
+}]{%
+_reportweintesting-1.pdf}
+\APACinsertmetastar {%
+_reportweintesting-1.pdf}%
 \APACrefbtitle {{ReportWeintesting}-1.pdf.} {{ReportWeintesting}-1.pdf.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{https://giftfrei.org/wp-content/uploads/2016/06/ReportWeintesting-1.pdf}
@@ -157,11 +230,11 @@ _reportweintesting-1.pdf_????}%
 \APACcitebtitle {Sustainability {\textbar} {Free} {Full}-{Text} {\textbar}
   {The} {Water} {Footprint} of the {Wine} {Industry}: {Implementation} of an
   {Assessment} {Methodology} and {Application} to a {Case} {Study}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
-_sustainability_????}
+_sustainability}
 \APACinsertmetastar {%
-_sustainability_????}%
+_sustainability}%
 \APACrefbtitle {Sustainability {\textbar} {Free} {Full}-{Text} {\textbar} {The}
   {Water} {Footprint} of the {Wine} {Industry}: {Implementation} of an
   {Assessment} {Methodology} and {Application} to a {Case} {Study}.}
@@ -169,7 +242,7 @@ _sustainability_????}%
   {Footprint} of the {Wine} {Industry}: {Implementation} of an {Assessment}
   {Methodology} and {Application} to a {Case} {Study}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
 \begin{APACrefURL} [{2017-02-09}]\url{http://www.mdpi.com/2071-1050/7/9/12190}
   \end{APACrefURL}
@@ -178,19 +251,18 @@ _sustainability_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {Sustainable {Winegrowing} {\textbar} {California} {Wines}}}{%
 \APACcitebtitle {Sustainable {Winegrowing} {\textbar} {California} {Wines}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2016}}%
 }]{%
-_sustainable_????}
+_sustainable}
 \APACinsertmetastar {%
-_sustainable_????}%
+_sustainable}%
 \APACrefbtitle {Sustainable {Winegrowing} {\textbar} {California} {Wines}.}
   {Sustainable {Winegrowing} {\textbar} {California} {Wines}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
-\begin{APACrefURL}
-  [{2017-02-09}]\url{http://www.discovercaliforniawines.com/sustainable-winegrowing/}
-  \end{APACrefURL}
+\begin{APACrefURL} [{2017-02-09}]\url{http://www.discov
+  ercaliforniawines.com/sustainable-winegrowing/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -200,11 +272,11 @@ _sustainable_????}%
 \APACcitebtitle {Weil die {Quellen} der wichtigsten europäischen {Ströme} in
   den {Schweizer} {Alpen} liegen, gilt die {Schweiz} als das {Wasserschloss}
   {Europas}: {Wasserschloss} {Schweiz} - {NZZ}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
-_weil_????}
+_weil}
 \APACinsertmetastar {%
-_weil_????}%
+_weil}%
 \APACrefbtitle {Weil die {Quellen} der wichtigsten europäischen {Ströme} in
   den {Schweizer} {Alpen} liegen, gilt die {Schweiz} als das {Wasserschloss}
   {Europas}: {Wasserschloss} {Schweiz} - {NZZ}.} {Weil die {Quellen} der
@@ -212,7 +284,7 @@ _weil_????}%
   die {Schweiz} als das {Wasserschloss} {Europas}: {Wasserschloss} {Schweiz} -
   {NZZ}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{https://www.nzz.ch/wasserschloss-schweiz-1.16921466}
@@ -222,15 +294,15 @@ _weil_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {Weinbau in der {Schweiz} – {Wikipedia}}}{%
 \APACcitebtitle {Weinbau in der {Schweiz} – {Wikipedia}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2017}}%
 }]{%
-_weinbau_????}
+_weinbau}
 \APACinsertmetastar {%
-_weinbau_????}%
+_weinbau}%
 \APACrefbtitle {Weinbau in der {Schweiz} – {Wikipedia}.} {Weinbau in der
   {Schweiz} – {Wikipedia}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2017}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{https://de.wikipedia.org/w/index.php?title=Weinbau_in_der_Schweiz&oldid=156102069}
@@ -240,15 +312,15 @@ _weinbau_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {{WEINLANDSCHWEIZ} {\textbar} produzenten}}{%
 \APACcitebtitle {{WEINLANDSCHWEIZ} {\textbar} produzenten}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2017}}%
 }]{%
-_weinlandschweiz_????}
+_weinlandschweiz}
 \APACinsertmetastar {%
-_weinlandschweiz_????}%
+_weinlandschweiz}%
 \APACrefbtitle {{WEINLANDSCHWEIZ} {\textbar} produzenten.} {{WEINLANDSCHWEIZ}
   {\textbar} produzenten.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2017}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-16}]\url{http://www.weinlandschweiz.ch/de/produzenten/}
@@ -258,15 +330,15 @@ _weinlandschweiz_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {Weinwirtschaftliche {Statistik}}}{%
 \APACcitebtitle {Weinwirtschaftliche {Statistik}}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2017}}%
 }]{%
-_weinwirtschaftliche_????}
+_weinwirtschaftliche}
 \APACinsertmetastar {%
-_weinwirtschaftliche_????}%
+_weinwirtschaftliche}%
 \APACrefbtitle {Weinwirtschaftliche {Statistik}.} {Weinwirtschaftliche
   {Statistik}.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2017}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{https://www.blw.admin.ch/blw/de/home/nachhaltige-produktion/pflanzliche-produktion/weine-und-spirituosen/weinwirtschaftliche-statistik.html}
@@ -276,15 +348,15 @@ _weinwirtschaftliche_????}%
 \bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {\_wettstein-2016-lca-wein.pdf}}{%
 \APACcitebtitle {\_wettstein-2016-lca-wein.pdf}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2016}}%
 }]{%
-___????}
+_wettstein}
 \APACinsertmetastar {%
-___????}%
+_wettstein}%
 \APACrefbtitle {\_wettstein-2016-lca-wein.pdf.}
   {\_wettstein-2016-lca-wein.pdf.}
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2016}{}{}.
 \newblock
 \begin{APACrefURL}
   [{2017-02-09}]\url{https://www.zhaw.ch/storage/lsfm/institute-zentren/iunr/oekobilanzierung/wettstein-2016-lca-wein.pdf}
