@@ -168,6 +168,31 @@ _kohlendioxid-bilanz}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Microsoft {Word} -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.doc -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.pdf}}{%
+\APACcitebtitle {Microsoft {Word} -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.doc -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.pdf}}{%
+{\protect \APACyear {2011}}%
+}]{%
+_microsoft}
+\APACinsertmetastar {%
+_microsoft}%
+\APACrefbtitle {Microsoft {Word} -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.doc -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.pdf.} {Microsoft {Word} -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.doc -
+  {Report}50-{NationalWaterFootprints}-{Vol}1.pdf.}
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-02-22}]\url{http://waterfootprint.org/media/downloads/Report50-NationalWaterFootprints-Vol1.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {Our {Common} {Future}: {Report} of the {World} {Commission} on
   {Environment} and {Development} - our-common-future.pdf}}{%
 \APACcitebtitle {Our {Common} {Future}: {Report} of the {World} {Commission} on
