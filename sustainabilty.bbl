@@ -36,6 +36,31 @@ _2015_report_appendix.pdf}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Advancing {Sustainable} {Materials} {Management}: {Facts} and
+  {Figures} {Report} {\textbar} {Sustainable} {Materials} {Management}
+  {\textbar} {US} {EPA}}}{%
+\APACcitebtitle {Advancing {Sustainable} {Materials} {Management}: {Facts} and
+  {Figures} {Report} {\textbar} {Sustainable} {Materials} {Management}
+  {\textbar} {US} {EPA}}}{%
+{\protect \APACyear {2015}}%
+}]{%
+_advancing}
+\APACinsertmetastar {%
+_advancing}%
+\APACrefbtitle {Advancing {Sustainable} {Materials} {Management}: {Facts} and
+  {Figures} {Report} {\textbar} {Sustainable} {Materials} {Management}
+  {\textbar} {US} {EPA}.} {Advancing {Sustainable} {Materials} {Management}:
+  {Facts} and {Figures} {Report} {\textbar} {Sustainable} {Materials}
+  {Management} {\textbar} {US} {EPA}.}
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\begin{APACrefURL}
+  [{2017-02-23}]\url{https://www.epa.gov/smm/advancing-sustainable-materials-management-facts-and-figures-report}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 \APACcitebtitle {All about California Wines, Winemakers, Wineries, Grapes Soil,
   History}}{%
 \APACcitebtitle {All about California Wines, Winemakers, Wineries, Grapes Soil,

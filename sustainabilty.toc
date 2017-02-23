@@ -20,6 +20,7 @@
 \contentsline {section}{\numberline {4}Summaries}{15}{section.4}
 \contentsline {subsection}{\numberline {4.1}COOP \IeC {\textendash } Strategies for Sustainable Food}{15}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Options for Change \IeC {\textendash } Innovation in Food Affair}{16}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Sustainable Development and Food Security}{16}{subsection.4.3}
-\contentsline {section}{\numberline {5}Reflexion \IeC {\textendash } Blockwoche Nachhaltigkeit }{18}{section.5}
-\contentsline {section}{Literatur}{21}{section*.10}
+\contentsline {subsection}{\numberline {4.3}Sustainable Development and Food Security}{17}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Global Perspective on Food Affairs }{18}{subsection.4.4}
+\contentsline {section}{\numberline {5}Reflexion \IeC {\textendash } Blockwoche Nachhaltigkeit }{19}{section.5}
+\contentsline {section}{Literatur}{22}{section*.11}
